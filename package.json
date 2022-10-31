@@ -1,0 +1,19 @@
+{
+  "name": "appenvios",
+  "version": "0.0.1",
+  "description": "Laboratorio HTTP 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "keywords": [
+    "laboratorio1"
+  ],
+  "author": "Sergio Padilla",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
